@@ -202,6 +202,8 @@ By adjusting prompt detail, tone, and structure, AI models generated high-qualit
 # Result:
 
 Output Sample Image 
+------
+
 <img width="690" height="696" alt="image" src="https://github.com/user-attachments/assets/590c4fd0-0dd1-40dc-acce-c0fdaf094d3a" />
 
 
